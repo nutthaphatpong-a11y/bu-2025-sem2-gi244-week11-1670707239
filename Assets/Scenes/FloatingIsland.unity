@@ -660,6 +660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   FocalPoint: {fileID: 1892999677}
+  havePowerUp: 0
 --- !u!54 &1231960639
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1054,6 +1055,7 @@ MonoBehaviour:
   - {fileID: 1176266729}
   - {fileID: 1651429377}
   enemyPrefab: {fileID: 8279026461862980053, guid: bb420f9ac2083cd4ea138531408225e7, type: 3}
+  box: {fileID: 0}
 --- !u!4 &2000910670
 Transform:
   m_ObjectHideFlags: 0
